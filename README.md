@@ -1,1 +1,1 @@
-# SQL-project-Music-Store-Analysis
+# SQL project Music_Store_Analysis
